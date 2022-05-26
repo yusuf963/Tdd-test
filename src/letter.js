@@ -3,6 +3,7 @@ export const getLetterCount = String => {
     let letterCount = {}
     letters.forEach(letter =>{
         if(!letterCount[letter]){
+            console.log('Yes')
             letterCount[letter] = 1
         }else{
             letterCount[letter] +=1
