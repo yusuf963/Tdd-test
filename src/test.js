@@ -6,3 +6,8 @@ console.log('pass test)
  console.log("didn't pass the test ")
             
 }
+
+for(let i = 100; i>0; i --){
+ console.log(i)
+ 
+} 
