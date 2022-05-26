@@ -6,6 +6,7 @@ export const getLetterCount = String => {
             console.log('Yes')
             letterCount[letter] = 1
         }else{
+            console.log('No')
             letterCount[letter] +=1
         }
     })
