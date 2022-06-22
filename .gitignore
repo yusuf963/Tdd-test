@@ -3,3 +3,4 @@ node_modules/
 local.env
 secret.json
 env
+sh
