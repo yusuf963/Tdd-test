@@ -4,3 +4,4 @@ local.env
 secret.json
 env
 sh
+secret.json
