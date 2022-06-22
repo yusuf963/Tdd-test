@@ -6,3 +6,4 @@ env
 sh
 secret.json
 dockerfile.dev
+docker-compose.dev
